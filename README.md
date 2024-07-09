@@ -42,7 +42,9 @@ Training the Model: Run model_training.py to train the CNN model using the datas
 
 Testing the Model: After training, run model_testing.py to evaluate the model's performance on the test dataset.
 
+
 Files Description
 model_training.py: Defines the CNN architecture, trains the model, and saves it as garbage_classifier.h5.
 model_testing.py: Loads the trained model, performs predictions on test data, and evaluates its performance using 
 		  metrics such as accuracy, precision, recall, and F1-score.
+For dataset there are alot of datas with the same class in Kaggle also here. 
